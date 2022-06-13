@@ -28,5 +28,5 @@ Spesifikasi tubes yang dibuat juga mengandung spesifikasi bonus, selain spesifik
 - Bonus (15%)
 
 ## Pengumpulan Tugas dan Lain-lain
-- Setelah selesai mengerjakan, kirimkan hasil pekerjaan ke 13519190@std.stei.itb.ac.id dengan judul email `Tubes Untuk Bangsa_<NIM>` contoh `Tubes Untuk Bangsa_13519190`. Lalu kontak saya melalui line (id: 53650335) untuk mengonfirmasi pengumpulan. Setelah itu, tunggu saja hingga nilai keluar pada spreadsheet.
+- Setelah selesai mengerjakan, kirimkan hasil pekerjaan ke 13519190@std.stei.itb.ac.id dengan judul email `Tubes Untuk Bangsa_<NIM>` contoh `Tubes Untuk Bangsa_13519190`. Format file dalam bentuk **.pdf** dengan nama file bebas. Lalu kontak saya melalui line (id: 53650335) untuk mengonfirmasi pengumpulan. Setelah itu, tunggu saja hingga nilai keluar pada spreadsheet.
 - Segala pertanyaan silakan disampaikan juga melalui line.
